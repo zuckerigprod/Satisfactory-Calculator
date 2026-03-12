@@ -1,0 +1,58 @@
+{
+  "title": "Satisfactory — Калькулятор производства",
+  "meta": {
+    "description": "Калькулятор производственных цепочек для Satisfactory — рассчитывайте рецепты, ресурсы и энергопотребление вашей фабрики."
+  },
+  "nav": {
+    "calculator": "Калькулятор",
+    "recipes": "Рецепты",
+    "parts": "Предметы",
+    "machines": "Машины"
+  },
+  "common": {
+    "min": "мин",
+    "noResults": "Ничего не найдено",
+    "found": "Найдено"
+  },
+  "calc": {
+    "selectTarget": "Выберите предмет",
+    "searchPart": "Поиск предмета...",
+    "selectPartHint": "Выберите предмет слева для расчёта производственной цепочки",
+    "target": "Цель",
+    "itemsPerMin": "Шт/мин",
+    "clear": "Сброс",
+    "savedChains": "Сохранённые цепочки",
+    "saveChain": "Сохранить цепочку",
+    "noSavedChains": "Нет сохранённых цепочек",
+    "availableRecipes": "Доступные рецепты",
+    "totalPower": "Энергопотребление",
+    "totalMachines": "Всего машин",
+    "rawResources": "Сырые ресурсы",
+    "productionSteps": "Этапы производства",
+    "partsBalance": "Баланс предметов",
+    "part": "Предмет",
+    "produced": "Произведено",
+    "consumed": "Потреблено",
+    "net": "Итого",
+    "chainMap": "Карта производства",
+    "resetView": "Сбросить вид"
+  },
+  "recipes": {
+    "search": "Поиск рецепта...",
+    "allMachines": "Все машины",
+    "showAlt": "Альтернативные"
+  },
+  "parts": {
+    "search": "Поиск предмета...",
+    "allTiers": "Все тиры",
+    "tier": "Тир",
+    "sinkPoints": "Очки раковины",
+    "recipesCount": "Рецепты"
+  },
+  "machines": {
+    "search": "Поиск машины...",
+    "buildCost": "Стоимость постройки",
+    "recipesCount": "Рецептов",
+    "shards": "Слоты улучшения"
+  }
+}

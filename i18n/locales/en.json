@@ -1,0 +1,58 @@
+{
+  "title": "Satisfactory — Production Calculator",
+  "meta": {
+    "description": "Satisfactory production chain calculator — plan recipes, resources and power consumption for your factory."
+  },
+  "nav": {
+    "calculator": "Calculator",
+    "recipes": "Recipes",
+    "parts": "Parts",
+    "machines": "Machines"
+  },
+  "common": {
+    "min": "min",
+    "noResults": "No results found",
+    "found": "Found"
+  },
+  "calc": {
+    "selectTarget": "Select target part",
+    "searchPart": "Search part...",
+    "selectPartHint": "Select a part on the left to calculate the production chain",
+    "target": "Target",
+    "itemsPerMin": "Items/min",
+    "clear": "Clear",
+    "savedChains": "Saved chains",
+    "saveChain": "Save chain",
+    "noSavedChains": "No saved chains",
+    "availableRecipes": "Available recipes",
+    "totalPower": "Total power",
+    "totalMachines": "Total machines",
+    "rawResources": "Raw resources",
+    "productionSteps": "Production steps",
+    "partsBalance": "Parts balance",
+    "part": "Part",
+    "produced": "Produced",
+    "consumed": "Consumed",
+    "net": "Net",
+    "chainMap": "Production Map",
+    "resetView": "Reset view"
+  },
+  "recipes": {
+    "search": "Search recipe...",
+    "allMachines": "All machines",
+    "showAlt": "Alternates"
+  },
+  "parts": {
+    "search": "Search part...",
+    "allTiers": "All tiers",
+    "tier": "Tier",
+    "sinkPoints": "Sink points",
+    "recipesCount": "Recipes"
+  },
+  "machines": {
+    "search": "Search machine...",
+    "buildCost": "Build cost",
+    "recipesCount": "Recipes",
+    "shards": "Production shards"
+  }
+}
